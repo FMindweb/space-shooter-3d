@@ -1,0 +1,6 @@
+{
+  "name": "Space Shooter 3D",
+  "description": "星战战机是一款全屏 perspective 3D 视角星空中进行躲避与技能射击的原生安卓游戏，具备登录、跳关模式以及本地排行榜功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
